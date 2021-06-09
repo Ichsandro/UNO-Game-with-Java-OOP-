@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class Help implements HelpInterface {
 
     public Help() {
-
     }
 
     public static void KetentuanPermainan() {
